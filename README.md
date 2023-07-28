@@ -1,16 +1,21 @@
 <h1 align="center">Hi 👋, I'm Akanksha Dubey</h1>
 <h3 align="center">A passionate Machine Learning Engineer and UI Designer from India</h3>
-
+<div style="display: flex; border: 1px solid #ccc;">
+        <div style="flex: 1; width: 50%; padding: 20px;">
 - 🔭 I’m currently working on **Sensory Data to Build a Deep Learning Model for Health Prediction System**
 
 - 🌱 I’m currently learning **Data Science, Data Analytics.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akankshadubey-202](https://github.com/akankshadubey-202)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, UI design**
+- 💬 Ask me about **Machine Learning, Deep Learning, and UI design**
 
 - 📫 How to reach me **dubeyakanksha17@gmail.com**
-
+        </div>
+  <div style="flex: 1; width: 50%;">
+            <img src="https://img.freepik.com/free-vector/data-points-concept-illustration_114360-2761.jpg?w=740&t=st=1690559958~exp=1690560558~hmac=799856af2840ae75242790b989924289ee99f79294498b54b8ecee9472281aa4" alt="Image Description" style="max-width: 100%;">
+        </div>
+    </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/www.linkedin.com/in/akanksha-dubey-223887202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/www.linkedin.com/in/akanksha-dubey-223887202" height="30" width="40" /></a>
