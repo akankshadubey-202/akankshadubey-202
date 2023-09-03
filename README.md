@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akanksha Dubey</h1>
-<h3 align="center">A passionate Machine Learning Engineer and UI Designer from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 <div style="display: flex; border: 1px solid #ccc;">
         <div style="flex: 1; width: 50%; padding: 20px;">
 - 🔭 I’m currently working on **Sensory Data to Build a Deep Learning Model for Health Prediction System**
